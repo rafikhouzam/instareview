@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+
+# Logs and temporary files
+*.log
+.DS_Store
+
+# Environment variables
+.env
+
+# Compiled output
+*.class
+*.o
+*.so
+
+# Lock files (optional)
+yarn.lock
+package-lock.json
